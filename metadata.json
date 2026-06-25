@@ -1,0 +1,6 @@
+{
+  "name": "AI Journal",
+  "description": "A polished AI-powered journal and mood companion that uses Gemini to analyze your thoughts and provide personalized, empathetic insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
